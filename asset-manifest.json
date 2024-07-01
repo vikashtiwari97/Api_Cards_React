@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Api_Cards_React/static/css/main.5996008f.css",
+    "main.js": "/Api_Cards_React/static/js/main.0f541d1f.js",
+    "index.html": "/Api_Cards_React/index.html",
+    "main.5996008f.css.map": "/Api_Cards_React/static/css/main.5996008f.css.map",
+    "main.0f541d1f.js.map": "/Api_Cards_React/static/js/main.0f541d1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5996008f.css",
+    "static/js/main.0f541d1f.js"
+  ]
+}
