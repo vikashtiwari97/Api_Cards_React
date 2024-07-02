@@ -38,7 +38,7 @@ function App() {
       <div>
         <Filter data={filterData} />
       </div>
-      <div>
+      <div className='w-11/12 max-w-[1200px] mx-auto flex flex-wrap justify-center min-h-[50vh]'>
         {
           loading ? (<Spinner/>) : (<Cards cardData={apiData}/>)
         }
