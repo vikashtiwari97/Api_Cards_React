@@ -1,5 +1,5 @@
 {
-  "homepage":"https://vikashtiwari97.github.io/Api_Cards_React",
+  "homepage": "https://vikashtiwari97.github.io/Api_Cards_React",
   "name": "project1",
   "version": "0.1.0",
   "private": true,
@@ -16,8 +16,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploye" : "npm run deploye",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
